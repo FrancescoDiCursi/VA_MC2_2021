@@ -1,4 +1,4 @@
-#<img src="https://github.com/FrancescoDiCursi/VA_MC2_2021/blob/main/favicon-gastech.ico" alt="gastech logo" width="30"/> VA_MC2_2021 (Visual Analytics 2022)
+# <img src="https://github.com/FrancescoDiCursi/VA_MC2_2021/blob/main/favicon-gastech.ico" alt="gastech logo" width="30"/> VA_MC2_2021 (Visual Analytics 2022)
 
 ### - Visit the [github page](https://francescodicursi.github.io/VA_MC2_2021/) to visualize the project.
 **WARNING**: ***the project is not implemented for tiny desktops***.
